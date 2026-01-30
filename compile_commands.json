@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/khedimo/c++/MemoryVisualizer/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -external:IC:\\libraries\\SFML-2.5.1\\include -external:W0 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++latest /FoCMakeFiles\\MemoryVisualizer.dir\\src\\main.cpp.obj /FdCMakeFiles\\MemoryVisualizer.dir\\ /FS -c C:\\khedimo\\c++\\MemoryVisualizer\\src\\main.cpp",
+  "file": "C:/khedimo/c++/MemoryVisualizer/src/main.cpp",
+  "output": "C:/khedimo/c++/MemoryVisualizer/build/CMakeFiles/MemoryVisualizer.dir/src/main.cpp.obj"
+}
+]

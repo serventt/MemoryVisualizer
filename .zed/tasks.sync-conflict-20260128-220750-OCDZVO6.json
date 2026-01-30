@@ -1,0 +1,9 @@
+[
+  {
+    "label": "Build and Run Game",
+    "command": "ninja -C build && ./build/MyStupidShooter.exe",
+    "use_new_terminal": true,
+    "allow_concurrent_runs": false,
+    "reveal": "always",
+  },
+]

@@ -1,0 +1,8 @@
+build/
+.zed/
+build.bat
+.cache/
+*.exe
+*.obj
+*.pdb
+*.ilk
